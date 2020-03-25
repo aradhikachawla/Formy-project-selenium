@@ -26,7 +26,7 @@ System.getProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/c
         element.submit();
 
         //Close the browser
-        driver.quit();
+       // driver.quit();
     }
 }
 
